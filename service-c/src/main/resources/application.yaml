@@ -1,0 +1,5 @@
+server:
+  port: 28800
+spring:
+  application:
+    name: service-c

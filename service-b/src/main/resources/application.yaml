@@ -1,0 +1,5 @@
+server:
+  port: 28810
+spring:
+  application:
+    name: service-b
